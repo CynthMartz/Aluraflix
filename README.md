@@ -3,7 +3,7 @@
 <hr>  
 
 ![Badge en Desarollo](https://img.shields.io/badge/Estado-En%20desarrollo-green)
-![GitHub estrellas](https://img.shields.io/github/stars/zidjian?style=social)  
+ 
 ### Índice  
 
 - [Descripción del proyecto](#Descripción-del-proyecto) 
@@ -19,7 +19,7 @@ AluraFlix es un Reto del programa de Oracle Next Education y Alura Latan. El cua
 - `Funcionalidad 1:`: Listado, registro, actualización y elimnación de categorias
 - `Funcionalidad 1:`: Listado, registro, actualización y elimnación de videos 
 ## Acceso al proyecto
-[Demo](https://aluraflix-phi-five.vercel.app/)
+[Demo]()
 ## Tecnologías utilizadas
 - React
 - Swiper
